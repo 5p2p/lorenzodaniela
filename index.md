@@ -125,6 +125,7 @@ Da Cantù, Via Petrarca 15 a Parabiago, Piazza Paolo VI
 [![](/img/map2.png)](https://www.google.it/maps/dir/Via+Francesco+Petrarca,+15,+Cant%C3%B9+CO/Parrocchia+Ges%C3%B9+Crocifisso,+Piazza+Paolo+VI,+1,+20015+Parabiago+Milano/@45.6124249,8.8978979,11z/data=!4m13!4m12!1m5!1m1!1s0x478698796a0c8ecf:0x78da83b8d219c7bf!2m2!1d9.1682826!2d45.7203382!1m5!1m1!1s0x4786ed55370f973d:0x2004861ce2542997!2m2!1d8.934797!2d45.55385)
 
 
+
 ### Da Milano a Parabiago
 
 E' possibile prendere il treno a Milano P.ta Garibaldi Passante (S5) in direzione Varese/Gallarate.
