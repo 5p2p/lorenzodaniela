@@ -13,6 +13,9 @@ con questa pagina web desideriamo rendervi partecipi della gioia che accompagna 
 
 Qui troverete qualche informazione su di noi e alcune indicazioni pratiche per il giorno del matrimonio. 
 
+
+[English version](/en/)
+
 ## GLI SPOSI
 
 ### Daniela
@@ -39,12 +42,13 @@ Galeotta fu la Marcia Francescana? Forse ...
 se avete voglia di saperne di più, andate a leggere 
 [la nostra storia!](http://5p2p.it/2013/06/19/fidanzati-senza-frontiere.html)
 
+Per ulteriori informazioni sulla marcia francescana, visita la pagina [www.marciafrancescana.it](http://www.marciafrancescana.it/)
 
 ## IL MATRIMONIO
 
 Quando abbiamo scoperto che Qualcuno ci amava immensamente, non abbiamo potuto fare a meno di scegliere di contraccambiare quell'Amore con il nostro SI. Così eccoci qui ... 
 
-Crediamo che senza lo "zampino" di Cristo, senza il dono della sua Grazia, non saremmo arrivati sin qui e senza il Suo sostegno non saremmo in grado di mantenere la promessa di un amore eterno. Per questo desideriamo sposarci nel Suo nome, perchè solo specchiandoci in Lui potremo imparare ad amare e ad amarci; perchè solo seguendo la direzione che ci indicherà potremo raggiungere la mèta del progetto a cui siamo chiamati: la felicità piena! 
+Crediamo che senza lo "zampino" di Cristo, senza il dono della sua Grazia, non saremmo arrivati sin qui e senza il Suo sostegno non saremmo in grado di mantenere la promessa di un amore eterno. Per questo desideriamo sposarci nel Suo nome, perchè solo specchiandoci in Lui potremo imparare ad amare e ad amarci; perchè solo seguendo la direzione che ci indicherà potremo raggiungere la mèta del progetto a cui siamo chiamati: la gioia piena! 
 
 ### I TESTIMONI
 
@@ -67,7 +71,7 @@ Crediamo che senza lo "zampino" di Cristo, senza il dono della sua Grazia, non s
 	</div>
 	<div class="col2">
 		<img class="img-rounded" src="/img/Picture8.jpg">
-		<p><span class="ita">FRA CARLO</span> con la sua disarmante ironia è un amico prezioso, infaticabile operaio della cooperativa Dio & Co, si occupa con entusiasmo contagioso dei suoi fratelli bisognosi alla missione Sant'Antonio di Milano.</p>
+		<p><span class="ita">FRA CARLO</span> con la sua disarmante ironia è un amico prezioso, infaticabile operaio della cooperativa Dio & Co, si occupa con entusiasmo contagioso dei suoi fratelli bisognosi <a href="http://fratiminori.it/component/k2/item/12-convento-s-antonio-di-padova-milano">alla missione Sant'Antonio di Milano</a>.</p>
 	</div>
 	<div style="clear: both"></div>
 	
@@ -98,7 +102,7 @@ FRA GIAMBATTISTA, al secolo Russell Crowe in brown, alias Gibo! Amico accoglient
 
 <img class="float img-rounded wide" src="/img/Picture12.jpg">
 
-Abbiamo incontrato [5pani2pesci](http://5p2p.it/) sul web, ma dopo esserci appassionati a quanto leggevamo, abbiamo voluto incontrare proprio gli autori: Alessandra e Francesco e i 3 piccoli Rao! Così li abbiamo raggiunti nella ridente Freiburg (Germania). Accoglienti, vulcanici, generosi e familiari. Quella che definiscono la loro povertà è la loro ricchezza più grande: capaci di donarsi con umiltà e verità a chi li incontra. Desideriamo sostenere il loro progetto di evangelizzazione e se avete voglia di saperne di più visitate il loro sito: [http://5p2p.it/](http://5p2p.it/)
+Abbiamo incontrato [5pani2pesci](http://5p2p.it/) sul web, ma dopo esserci appassionati a quanto leggevamo, abbiamo voluto incontrare proprio gli autori: Alessandra e Francesco e i 3 piccoli Rao! Così li abbiamo raggiunti nella ridente Freiburg (Germania). Accoglienti, vulcanici, generosi e familiari. Quella che definiscono la loro povertà è la loro ricchezza più grande: capaci di donarsi con umiltà e verità a chi li incontra. Desideriamo sostenere il loro progetto di evangelizzazione e se avete voglia di saperne di più visitate il loro sito: [http://5p2p.it](http://5p2p.it/)
 
 ## LA NOSTRA LISTA NOZZE 
 
