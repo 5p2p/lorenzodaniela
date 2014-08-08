@@ -7,7 +7,6 @@ data: Sabato 18 ottobre 2014, ore 11
 luogo: Parrocchia Gesù Crocifisso, Ravello di Parabiago
 ---
 
-
 Ciao a tutti e benvenuti! 
 
 con questa pagina web desideriamo rendervi partecipi della gioia che accompagna la nostra decisione di sposarci, delle nostre scelte e del cammino compiuto sino ad ora, ma soprattutto desideriamo ringraziarvi perchè se state leggendo vuol dire che per noi siete importanti!. 
