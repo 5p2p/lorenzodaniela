@@ -29,7 +29,7 @@ DANIELA 33 anni, secondogenita di mamma Luigia e papà Vincenzo. Prima di lei Ro
 
 <img class="float img-rounded" src="/img/Picture3.jpg">
 
-LORENZO 30 anni, terzo di 4 bei maschioni -con lui. Ale, Marco e Riky- cresciuti con tanto amore e tanta pazienza da mamma Grazie e papà Carlo. Appassionato ricercatore, tanto delle cose di quaggiù, quanto di quelle ”di lassù”, da qualche anno indaga in quel di Braunschweig (DE). Amante della buona birra (ovviamente scura :b), della buona tavola, della buona compagnia e dell'ALTA velocità, a volte deve rallentare per aspettare la sua bella che ama follemente.
+LORENZO 30 anni, terzo di 4 bei maschioni -con lui. Ale, Marco e Riky- cresciuti con tanto amore e tanta pazienza da mamma Grazia e papà Carlo. Appassionato ricercatore, tanto delle cose di quaggiù, quanto di quelle ”di lassù”, da qualche anno indaga in quel di Braunschweig (DE). Amante della buona birra (ovviamente scura :b), della buona tavola, della buona compagnia e dell'ALTA velocità, a volte deve rallentare per aspettare la sua bella che ama follemente.
 
 
 ## LA STORIA
